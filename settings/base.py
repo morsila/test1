@@ -4,7 +4,7 @@ import os
 # 
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.realpath(__file__))).replace("\\", "/")
 
-# Default: () (Empty tuple)
+# Default: () (Empty tuple) a;slkdal;ksdl;aks;dlakl;sdkl;aks;dlkal;sdkl;askdl;akd
 # A tuple that lists people who get code error notifications.
 # When DEBUG=False and a view raises an exception,# Django will e-mail these
 # people with the full exception information.
